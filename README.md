@@ -11,10 +11,12 @@
 ## Array
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/jeppu-on/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jeppu-on/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/jeppu-on/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jeppu-on/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
